@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to Vivek's Creative Universe 🚀
+# 🚀 Transforming Ideas into Interactive Digital Realities. 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%92%BB+Digital+Architect+%F0%9F%92%BB;Creative+Web+Developer+%26+Designer;%F0%9F%8E%A8+Crafting+Digital+Experiences+%F0%9F%8E%A8" alt="Typing SVG" />
 
