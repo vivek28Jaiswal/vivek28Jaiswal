@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to Vivek's Creative Universe 🚀
+# 🚀 Transforming Ideas into Interactive Digital Realities. 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&height=80&lines=Creative+Developer;Web+Designer;Creative+Technologist;Digital+Artist" alt="Typing SVG" />
 
@@ -74,81 +74,84 @@ class Vivek {
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Stack"/>
 
-### 💻 Frontend Development
+### 💻 Frontend Development & Languages
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="48" height="48" alt="HTML5"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50" height="50" alt="HTML5"/>
 <br><sub><b>HTML5</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="48" height="48" alt="CSS3"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="50" height="50" alt="CSS3"/>
 <br><sub><b>CSS3</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" height="48" alt="JavaScript"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50" alt="JavaScript"/>
 <br><sub><b>JavaScript</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="React"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50" alt="React"/>
 <br><sub><b>ReactJS</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" height="48" alt="TypeScript"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" alt="TypeScript"/>
 <br><sub><b>TypeScript</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbaa.gif" width="48" height="48" alt="TailwindCSS"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50" height="50" alt="TailwindCSS"/>
 <br><sub><b>TailwindCSS</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="GSAP"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/216644507-9d0e4da2-bdbe-4734-88c9-72af7b76bb35.gif" width="50" height="50" alt="GSAP"/>
 <br><sub><b>GSAP</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="48" height="48" alt="Git"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="50" height="50" alt="Git"/>
 <br><sub><b>Git</b></sub>
 </td>
 </tr>
 </table>
 
-### 🎨 Design & Development Tools
+### 🎨 Design Tools & Deployment
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" height="48" alt="GitHub"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50" alt="GitHub"/>
 <br><sub><b>GitHub</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200447-2d50bfcf-4244-4afb-a5b2-0c2c4d043667.gif" width="48" height="48" alt="Redis"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/238200447-2d50bfcf-4244-4afb-a5b2-0c2c4d043667.gif" width="50" height="50" alt="Redis"/>
 <br><sub><b>Redis</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="48" height="48" alt="Heroku"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="50" height="50" alt="Heroku"/>
 <br><sub><b>Heroku</b></sub>
 </td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="Figma"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50" alt="Figma"/>
 <br><sub><b>Figma</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbaa.gif" width="48" height="48" alt="Canva"/>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" height="50" alt="Canva"/>
 <br><sub><b>Canva</b></sub>
 </td>
-<td align="center" width="100">
-
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50" alt="Creative"/>
+<br><sub><b>Creative</b></sub>
 </td>
-<td align="center" width="100">
-
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50" alt="Magic"/>
+<br><sub><b>Magic ✨</b></sub>
 </td>
-<td align="center" width="100">
-
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50" height="50" alt="Coding"/>
+<br><sub><b>Coding 🚀</b></sub>
 </td>
 </tr>
 </table>
