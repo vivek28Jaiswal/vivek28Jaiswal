@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Transforming Ideas into Interactive Digital Realities. 🚀
+# 🚀 Welcome to Vivek's Creative Universe 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%92%BB+Digital+Architect+%F0%9F%92%BB;Creative+Web+Developer+%26+Designer;%F0%9F%8E%A8+Crafting+Digital+Experiences+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&height=80&lines=Creative+Developer;Web+Designer;Creative+Technologist;Digital+Artist" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Creative Developer"/>
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🎯 About This Digital Architect 🎯
+## 🎯 About This Creative Technologist 🎯
 
 <div align="center">
 
 ```javascript
-class VivekJaiswal {
+class Vivek {
   constructor() {
-    this.name = "Vivek Jaiswal";
-    this.role = "Creative Web Developer & Designer";
+    this.name = "Vivek";
+    this.role = "Creative Developer & Digital Artist";
     this.location = "Digital Innovation Lab 🌍";
     this.mission = "Transforming ideas into stunning digital realities";
     this.expertise = ["Frontend Magic", "UI/UX Wizardry", "Creative Coding"];
@@ -92,76 +92,63 @@ class VivekJaiswal {
 </td>
 <td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="React"/>
-<br><sub><b>React</b></sub>
+<br><sub><b>ReactJS</b></sub>
 </td>
 </tr>
-</table>
-
-### 🎨 Design & Animation
-
-<table>
 <tr>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="Figma"/>
-<br><sub><b>Figma</b></sub>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" height="48" alt="TypeScript"/>
+<br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbaa.gif" width="48" height="48" alt="Canva"/>
-<br><sub><b>Canva</b></sub>
+<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbaa.gif" width="48" height="48" alt="TailwindCSS"/>
+<br><sub><b>TailwindCSS</b></sub>
 </td>
 <td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="GSAP"/>
 <br><sub><b>GSAP</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200440-7e5c28b7-6bf6-4903-8882-e1d5cd4b2fd4.gif" width="48" height="48" alt="Design"/>
-<br><sub><b>Design</b></sub>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="48" height="48" alt="Git"/>
+<br><sub><b>Git</b></sub>
 </td>
 </tr>
 </table>
 
-### 🚀 Development & Deployment
+### 🎨 Design & Development Tools
 
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="48" height="48" alt="Git"/>
-<br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" height="48" alt="GitHub"/>
 <br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/238200447-2d50bfcf-4244-4afb-a5b2-0c2c4d043667.gif" width="48" height="48" alt="Redis"/>
+<br><sub><b>Redis</b></sub>
 </td>
 <td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="48" height="48" alt="Heroku"/>
 <br><sub><b>Heroku</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200447-2d50bfcf-4244-4afb-a5b2-0c2c4d043667.gif" width="48" height="48" alt="Redis"/>
-<br><sub><b>Redis</b></sub>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="Figma"/>
+<br><sub><b>Figma</b></sub>
 </td>
 </tr>
-</table>
-
-### 💾 Programming Languages
-
-<table>
 <tr>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200433-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="48" height="48" alt="C"/>
-<br><sub><b>C</b></sub>
+<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbaa.gif" width="48" height="48" alt="Canva"/>
+<br><sub><b>Canva</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="48" height="48" alt="C++"/>
-<br><sub><b>C++</b></sub>
+
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" height="48" alt="TypeScript"/>
-<br><sub><b>TypeScript</b></sub>
+
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="48" height="48" alt="Node.js"/>
-<br><sub><b>Node.js</b></sub>
+
 </td>
 </tr>
 </table>
@@ -217,6 +204,16 @@ class VivekJaiswal {
 </thead>
 <tbody>
 <tr>
+<td align="center"><strong>🏆 Hackathon Runner-up</strong></td>
+<td align="center">✅ Achieved</td>
+<td align="center">2x Runner-up in competitive hackathons</td>
+</tr>
+<tr>
+<td align="center"><strong>🎪 Tech Event Participant</strong></td>
+<td align="center">✅ Active</td>
+<td align="center">Participated in several tech events & conferences</td>
+</tr>
+<tr>
 <td align="center"><strong>🎨 UI/UX Master</strong></td>
 <td align="center">✅ Completed</td>
 <td align="center">Created stunning, user-centered designs</td>
@@ -237,9 +234,14 @@ class VivekJaiswal {
 <td align="center">Mobile-first, cross-platform compatibility</td>
 </tr>
 <tr>
-<td align="center"><strong>🎯 Problem Solver</strong></td>
+<td align="center"><strong>🎯 Creative Problem Solver</strong></td>
 <td align="center">✅ Completed</td>
-<td align="center">Clean code, efficient solutions</td>
+<td align="center">Innovative solutions for complex challenges</td>
+</tr>
+<tr>
+<td align="center"><strong>💡 Digital Innovator</strong></td>
+<td align="center">✅ Ongoing</td>
+<td align="center">Always exploring new creative possibilities</td>
 </tr>
 </tbody>
 </table>
