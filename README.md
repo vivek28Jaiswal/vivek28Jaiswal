@@ -504,19 +504,15 @@ Future Thinking   ███████████████████░ 9
 
 <div align="center">
 
-### 🚀 Ready to Set Sail & Create Digital Magic Together? 🚀
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlMmNjNGY5NjkxZWQzNWMwYjQ0OTgzMTU2NzFiZTc2OWY1ODQwZiZjdD1n/mCRJDo24UvJMA/giphy.gif" width="400" alt="Going Merry"/>
 
 ### 💼 Available for Creative Projects | 🤝 Let's Build Something Amazing
 
-**"I'm gonna be the King of Creative Developers!"** - Monkey D. Vivek 👑
+**"Code is like humor. When you have to explain it, it's bad."**
 
 <br>
 
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=vivek28Jaiswal&label=Nakama%20Visits&color=00d9ff&style=for-the-badge&pretty=true" alt="Visitor Count"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=vivek28Jaiswal&label=Nakama%20Visits&color=00d9ff&style=for-the-badge)
 
 <br><br>
 
