@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Transforming Ideas into Interactive Digital Realities. 🚀
+# 🚀 Transforming Ideas into Interactive Digital Realities 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&height=80&lines=Creative+Developer;Web+Designer;Creative+Technologist;Digital+Artist" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Creative Developer"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Creative Developer"/>
 
 </div>
 
@@ -30,10 +30,14 @@ class Vivek {
   createMagic() {
     return "Pixel-perfect designs + Smooth animations + Clean code";
   }
+  
+  goingMerry() {
+    return "Setting sail for new adventures in code! 🚢";
+  }
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Creative Process"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4YWQ3MjA1YzE4ZmQ2NzU2YWVlOGZkNjkzYjFhMzRlN2Y4NGZjMiZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="400" alt="One Piece Coding"/>
 
 </div>
 
@@ -62,7 +66,7 @@ class Vivek {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200" alt="Connect"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE2YjY5ZGE4YmRkZGE4NzQ4MjE4YzY5MWM5MWYzN2RjNjEwNzEyNCZjdD1n/Nx0rz3jtxtEre/giphy.gif" width="200" alt="Luffy Connect"/>
 
 </div>
 
@@ -72,44 +76,44 @@ class Vivek {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Stack"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY3ZDg2MGQ1YzYzOWU2ZGE2Y2ZhZTQ4ZjcyNzU0MjU2YmM1NGNkNyZjdD1n/10SvWCbt1ytWCc/giphy.gif" width="100" alt="Zoro Tech Skills"/>
 
 ### 💻 Frontend Development & Languages
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50" height="50" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
 <br><sub><b>HTML5</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="50" height="50" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
 <br><sub><b>CSS3</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 <br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
 <br><sub><b>ReactJS</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
 <br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50" height="50" alt="TailwindCSS"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS"/>
 <br><sub><b>TailwindCSS</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/216644507-9d0e4da2-bdbe-4734-88c9-72af7b76bb35.gif" width="50" height="50" alt="GSAP"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="50" height="50" alt="GSAP"/>
 <br><sub><b>GSAP</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="50" height="50" alt="Git"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
 <br><sub><b>Git</b></sub>
 </td>
 </tr>
@@ -120,43 +124,43 @@ class Vivek {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 <br><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/238200447-2d50bfcf-4244-4afb-a5b2-0c2c4d043667.gif" width="50" height="50" alt="Redis"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
 <br><sub><b>Redis</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="50" height="50" alt="Heroku"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/>
 <br><sub><b>Heroku</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50" alt="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" alt="Figma"/>
 <br><sub><b>Figma</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" height="50" alt="Canva"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="50" height="50" alt="Canva"/>
 <br><sub><b>Canva</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50" alt="Creative"/>
-<br><sub><b>Creative</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+<br><sub><b>Node.js</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50" alt="Magic"/>
-<br><sub><b>Magic ✨</b></sub>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+<br><sub><b>Postman</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50" height="50" alt="Coding"/>
-<br><sub><b>Coding 🚀</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+<br><sub><b>VS Code</b></sub>
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Magic"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y2MDZjNjQ5ZmVjMmI2YWNmNzE4YmJmNzQ4MmY2ZTQyMjQ5NmFkNSZjdD1n/ASd0Ukj0y3qMM/giphy.gif" width="400" alt="Sanji Cooking Code"/>
 
 </div>
 
@@ -166,7 +170,7 @@ class Vivek {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100" alt="Analytics"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA4NzY5YWQ1YjQ0NzI0MTJmZGE0ODBjODM0YmZkZjc5YjU1MzA5ZiZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Nami Analytics"/>
 
 ### 🎯 Development Statistics
 
@@ -185,7 +189,7 @@ class Vivek {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek28Jaiswal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Success"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBmOTMwOTM1NzY4MjZjMzI2OGI4NzQyZGZmZDc4NDFiMzE1ODBiMiZjdD1n/BemKqR9RDK4V2/giphy.gif" width="300" alt="Robin Success"/>
 
 </div>
 
@@ -195,7 +199,7 @@ class Vivek {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644507-9d0e4da2-bdbe-4734-88c9-72af7b76bb35.gif" width="100" alt="Achievements"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU4ZTZkOGI2OWE2ZWFmMjliOGQ1ZDNjNzJjNjEzZDYzMTNmZDNiNCZjdD1n/l2JhpjWPccQhsAMfu/giphy.gif" width="100" alt="Franky Achievements"/>
 
 <table>
 <thead>
@@ -262,17 +266,17 @@ class Vivek {
 <table>
 <tr>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150" alt="User Amazed"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E2NDUyZDY5YTFhMzU3YTg4MTM2ZGU4OWRlMmExOTU2YzQ1NGVjOSZjdD1n/5VKbvrjxpVJCS/giphy.gif" width="150" alt="User Amazed"/>
 <br><strong>🤯 Users' First Reaction</strong>
 <br><sub>"How did they make this?!"</sub>
 </td>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/216644507-9d0e4da2-bdbe-4734-88c9-72af7b76bb35.gif" width="150" alt="Innovation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FlYTcwNzY2NjYzYjY0NDY5M2QzYmI3OWQ1MzFhOTkxNWNkNmEyMCZjdD1n/H7kfFDvD9HSYGRbvid/giphy.gif" width="150" alt="Innovation"/>
 <br><strong>💡 Innovation First</strong>
 <br><sub>Always pushing creative boundaries</sub>
 </td>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150" alt="Performance"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5MDYzZjE5MjA0ZGFkOWM4OTRjYzJjNGJkYTQwNmQ1ZTQyM2RmNCZjdD1n/IpeYSUZshTefe/giphy.gif" width="150" alt="Performance"/>
 <br><strong>⚡ Performance Matters</strong>
 <br><sub>Beautiful AND fast experiences</sub>
 </td>
@@ -287,24 +291,24 @@ class Vivek {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Website Showcase"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE0ZmNkYTgxNmUwZTlhMjM0NWEwNWE1OWM0NzY3YzQzYzUyNTA4MSZjdD1n/mCRJDo24UvJMA/giphy.gif" width="500" alt="Website Showcase"/>
 
 ### When Users Visit My Websites... 
 
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200" alt="Mind Blown"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FhNGZmMTUxZWE5NDVmZGE4MGNjZjE5ZmEyZWMzNjY5YjQ1YzY3OCZjdD1n/oF5oUYTOhvFnO/giphy.gif" width="200" alt="Mind Blown"/>
 <br><strong>😱 Initial Shock</strong>
 <br><sub>"This looks incredible!"</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Engagement"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZiNzMxNjA5ZjQ3ZjJhYzUwNWIyMTEzNGE3YTUzYzcyOTI2NGI1ZiZjdD1n/10LVsLOqLBr5qE/giphy.gif" width="200" alt="Engagement"/>
 <br><strong>🎯 Full Engagement</strong>
 <br><sub>"I can't stop exploring!"</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644507-9d0e4da2-bdbe-4734-88c9-72af7b76bb35.gif" width="200" alt="Satisfaction"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMzNjI5MDRhNjg0ZWQ4MmQ3MjA1YzgxNjExNTQyM2I0ZjVkZDQ2NyZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" alt="Satisfaction"/>
 <br><strong>⭐ Pure Satisfaction</strong>
 <br><sub>"This is exactly what I needed!"</sub>
 </td>
@@ -319,7 +323,7 @@ class Vivek {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="Projects"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk4NzQ3ZWE4ZTNlMzEyZWY4NzQ4NGEyOWNiNzYwMmYxNzRmMmE1MiZjdD1n/13CoXDiaCcCoyk/giphy.gif" width="200" alt="Projects"/>
 
 <table>
 <thead>
@@ -429,26 +433,26 @@ Future Thinking   ███████████████████░ 9
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644507-9d0e4da2-bdbe-4734-88c9-72af7b76bb35.gif" width="100" alt="Testimonials"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlYmE5YzY2MzdmNzFjOGJmNGQ1YjkwNzc5NzU0OTJjZjRiYmI2MCZjdD1n/GVMhZwYv8U5NK/giphy.gif" width="100" alt="Testimonials"/>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100" alt="Client 1"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY5MjJhM2U2NzUyMTgzNTQwNTEzNzI0MGVhYzYzNmY1YWQxM2Y2YyZjdD1n/QyWBSOz4GyDL23wHdd/giphy.gif" width="100" alt="Client 1"/>
 <br>
 <strong>🤯 "Absolutely Blown Away!"</strong>
 <br>
 <sub>The creativity and attention to detail is unmatched</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Client 2"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQyNzMzOGM4Y2ExYzUzNGNjZjg5YzkzOTZkOTBjNGNlYjRjNWJhNiZjdD1n/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="100" alt="Client 2"/>
 <br>
 <strong>⚡ "Exceeded All Expectations"</strong>
 <br>
 <sub>Delivered beyond what we could imagine</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="Client 3"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE3MjY4YzQ5MWJjZjllMzY5ZmFlZGFjMzVjM2RiODE0NDgzNDYyMyZjdD1n/5GoVLqeAOo6PK/giphy.gif" width="100" alt="Client 3"/>
 <br>
 <strong>🎯 "Perfect User Experience"</strong>
 <br>
@@ -461,22 +465,59 @@ Future Thinking   ███████████████████░ 9
 
 ---
 
+## 🏴‍☠️ One Piece Inspired Developer Journey 🏴‍☠️
+
 <div align="center">
 
-### 🚀 Ready to Create Digital Magic Together? 🚀
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBkNjA4NzIzZWU5OGU0NzgwZGRiZTQ1MzA2MzJkNDg4YmU2NDIyNCZjdD1n/NpL4D3Oc2bJUMAXF9P/giphy.gif" width="300" alt="Straw Hat Crew"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Let's Create"/>
+### 🚢 My Crew & Skills
+
+<table>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhNjEzNDJlNGU3MGUwMGU5NDY3OTBhYzBjYzBjMTkzMGE4MzI0YSZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="80" alt="Luffy"/>
+<br><b>Captain Luffy</b>
+<br><sub>Leadership & Vision</sub>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1NjA3ZjU1YzY0MjdhNzNhYzNlYzBkMDNlNGE1OWU2ODY4ZDUxZSZjdD1n/10SvWCbt1ytWCc/giphy.gif" width="80" alt="Zoro"/>
+<br><b>Zoro</b>
+<br><sub>Three.js Mastery</sub>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E2NDUyZDY5YTFhMzU3YTg4MTM2ZGU4OWRlMmExOTU2YzQ1NGVjOSZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="80" alt="Nami"/>
+<br><b>Nami</b>
+<br><sub>Analytics Navigation</sub>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBhNjViNzE4ODIxMDQzMjIzOWUwNmQ3Y2Y1MjU4MzU3OGI1MWIzNCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" width="80" alt="Sanji"/>
+<br><b>Sanji</b>
+<br><sub>Clean Code Chef</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Ready to Set Sail & Create Digital Magic Together? 🚀
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlMmNjNGY5NjkxZWQzNWMwYjQ0OTgzMTU2NzFiZTc2OWY1ODQwZiZjdD1n/mCRJDo24UvJMA/giphy.gif" width="400" alt="Going Merry"/>
 
 ### 💼 Available for Creative Projects | 🤝 Let's Build Something Amazing
+
+**"I'm gonna be the King of Creative Developers!"** - Monkey D. Vivek 👑
 
 <br>
 
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=vivek28Jaiswal&label=Profile%20Views&color=00d9ff&style=for-the-badge&pretty=true" alt="Visitor Count"/>
+<img src="https://visitcount.itsvg.in/api?id=vivek28Jaiswal&label=Nakama%20Visits&color=00d9ff&style=for-the-badge&pretty=true" alt="Visitor Count"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=30&lines=%E2%9A%A1+Crafted+with+creativity%2C+passion%2C+and+lots+of+magical+code+%F0%9F%AA%84" alt="Footer"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=30&lines=%E2%9A%A1+Crafted+with+creativity%2C+passion%2C+and+the+power+of+the+Straw+Hats+%F0%9F%8F
